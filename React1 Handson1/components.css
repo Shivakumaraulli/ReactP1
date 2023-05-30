@@ -1,0 +1,24 @@
+.flexbox{
+    margin: 2em;
+    text-align: center;
+    background-color: cyan;
+    border-radius: 3em;
+    box-shadow: 2px 2px 2px grey;
+    padding: 2em;
+    opacity: 0.9;
+    margin-left: 50%;
+}
+.excess{
+    font-size: 1.4em;
+    color: darkred;
+}
+.flexbox-1{
+    margin: 2em;
+    text-align: center;
+    background-color: cyan;
+    border-radius: 3em;
+    box-shadow: 2px 2px 2px grey;
+    padding: 2em;
+    opacity: 0.9;
+    margin-left: 50%;
+}
